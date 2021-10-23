@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.7
+
+### Patch Changes
+
+- [`c28d9232d`](https://github.com/chakra-ui/chakra-ui/commit/c28d9232df555e88d149c17f2116600350c83b14)
+  [#4888](https://github.com/chakra-ui/chakra-ui/pull/4888) Thanks
+  [@dodas](https://github.com/dodas)! - Fix issue where computePositionOnMount
+  didn't work without explict value
+
 ## 1.7.6
 
 ### Patch Changes
