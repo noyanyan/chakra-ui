@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.4.2
+
+### Patch Changes
+
+- [`9d845f2d2`](https://github.com/chakra-ui/chakra-ui/commit/9d845f2d22d9b8a7e392bda08073c847ab748491)
+  [#4852](https://github.com/chakra-ui/chakra-ui/pull/4852) Thanks
+  [@antenna-three](https://github.com/antenna-three)! - Fix issue where sliding
+  on a range slider without focusing sometimes fail.
+
 ## 1.4.1
 
 ### Patch Changes
