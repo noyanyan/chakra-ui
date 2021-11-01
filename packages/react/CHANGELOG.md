@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.6.12
+
+### Patch Changes
+
+- Updated dependencies
+  [[`c3f016149`](https://github.com/chakra-ui/chakra-ui/commit/c3f01614929d2f68a39cf78111d17f4f4c684706)]:
+  - @chakra-ui/popper@2.3.1
+  - @chakra-ui/menu@1.7.8
+  - @chakra-ui/popover@1.9.1
+  - @chakra-ui/tooltip@1.3.14
+
 ## 1.6.11
 
 ### Patch Changes
